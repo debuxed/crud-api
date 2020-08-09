@@ -1,6 +1,6 @@
-# CRUD API using Node and Mongo
+# CRUD API using Node JS (Express) and Mongo DB
 
-Created a sample pilot to understand the flexibility of node and no-sql. The API under the 'faqs' provide us with the basic CRUD operations. Pardon my comments (These are for my reference for future use)
+Created a sample pilot to understand the flexibility of node js using the express framework and no-sql. The API under the 'faqs' provide us with the basic CRUD operations. Pardon my comments (These are for my reference for future use)
 
 ## Setup
 
